@@ -1,0 +1,36 @@
+body
+{
+	border: 20px solid #00A0AA;
+	padding: 20px;
+	max-width: 700px;
+	width: 80%;
+	/*height:700px;*/
+	margin: 20px auto;
+	font-family: Calibri;
+
+}
+
+.date
+{
+	color:#00A0AA;
+}
+
+.first
+{
+	border-left:10px solid #00A0AA;
+	padding-left:10px;
+}
+
+.date1
+{
+	color:#00A0AA;
+}
+.second
+{
+	border-left:10px solid #00A0AA;
+	padding-left:10px;
+}
+h4{
+	border:0.1px solid #00A0AA;
+
+}
