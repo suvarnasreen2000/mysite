@@ -1,0 +1,38 @@
+/* font-family */
+p {
+	font-family: Bradley Hand ITC;					/*Makes all the text arial*/
+}
+
+/* font size */
+p{
+	font-size: 20px;
+}
+
+span{
+	font-size: 2.0em;								/*Makes twice as large as p bcoz its nested n html*/
+}
+
+/*fontsize   */
+p{
+	font-weight: bold;
+}
+
+/* line-height */
+p{
+	font-height: 2;								/*Multiplies the curent line height*/
+}
+
+/* text- align */
+h1{
+	text-align:center;
+}
+
+/*text decoration */
+h1{
+	text-decoration:underline;
+}
+
+
+h2{
+	text-decoration: line-through;
+}

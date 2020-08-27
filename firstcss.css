@@ -1,0 +1,31 @@
+h4{
+	color:red;
+	border-color:purple;
+	border-width: 5px;
+	border-style:solid;			/* all 3 boredr tags mandatory for border*/
+}
+
+li{
+	color: green;
+	/*border: 8px dashed green;*/	/* another way for adding borders shortcut syntax*/	
+}
+
+h1{
+	color: purple;
+}
+/*background*/
+h1{
+	background: orange;
+}
+
+/*body{
+	background: pink;
+}*/
+body{
+	/*background: url(https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/dogs_1280p_0.jpg?itok=cnRk0HYq);*/
+	background : url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+
+
+}	
